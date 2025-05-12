@@ -1,0 +1,32 @@
+.gggg {
+    width: 80vh;
+    height: 50vh;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "roboto";
+    margin: 10px;
+}
+
+.side-heading {
+    color: #183b56;
+    margin: 10px;
+    font-family: "roboto";
+    font-size: 22px;
+}
+
+.nd-side-heading {
+    color: #183b56;
+    font-family: "rooto";
+    text-align: center;
+}
+
+.discription {
+    color: #5a7184;
+    text-align: center;
+}
+
+.bg-container {
+    padding: 1px;
+}
